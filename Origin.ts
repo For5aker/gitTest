@@ -2,7 +2,8 @@ function test()
 {
     const x = "abx";
     const y = "hdhtdh";
-    return x + y;
+    const z = "sefsefsf"
+    return x + y + z;
 }
 
 function add(){
