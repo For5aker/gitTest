@@ -4,3 +4,7 @@ function test()
     const y = "hdhtdh";
     return x + y;
 }
+
+function add(){
+    return 1 + 2;
+}
